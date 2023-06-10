@@ -1,0 +1,27 @@
+{
+  "name": "svg-logo-making",
+  "version": "1.0.0",
+  "description": "application to create svg logo according to user requirements",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenafwork/SVG-Logo-Making.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenafwork/SVG-Logo-Making/issues"
+  },
+  "homepage": "https://github.com/elenafwork/SVG-Logo-Making#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^24.9.0"
+  }
+}
